@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<chapter>
+<?dbhtml filename="MatlabArduino-004.html"?>
+<title>Zera Variaveis</title>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve"><mwsh:comments
+        xml:space="preserve">% zera variáveis</mwsh:comments>
+    tf = 0;
+    t = 0;
+    ti = 0;
+    val =0;
+<mwsh:comments
+        xml:space="preserve">%% zera variaveis de controle</mwsh:comments>
+    media = 0;
+    soma = 0;
+    cont = 0;
+<mwsh:comments
+        xml:space="preserve">%  lcReal = zeros(30,15);</mwsh:comments>
+<mwsh:comments xml:space="preserve">%  lcImag = zeros(30,15);</mwsh:comments>
+
+
+</mwsh:code>
+</chapter>

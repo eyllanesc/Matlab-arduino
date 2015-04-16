@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<chapter>
+<?dbhtml filename="MatlabArduino-003.html"?>
+<title>Comunicação Matlab Arduino</title>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">
+clear <mwsh:strings
+        xml:space="preserve">all</mwsh:strings>; <mwsh:comments
+        xml:space="preserve">% limpa as variáveis</mwsh:comments>
+a = arduino(<mwsh:strings
+        xml:space="preserve">'COM3'</mwsh:strings>); <mwsh:comments xml:space="preserve">% porta de comunicação do arduino</mwsh:comments>
+</mwsh:code>
+<programlisting xml:space="preserve">Attempting connection .............
+Basic I/O Script detected !
+Arduino successfully connected !
+</programlisting>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">a.pinMode(n,<mwsh:strings
+        xml:space="preserve">'output'</mwsh:strings>); <mwsh:comments xml:space="preserve">% seta porta digital como output</mwsh:comments>
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">a.pinMode(n,<mwsh:strings
+        xml:space="preserve">'output'</mwsh:strings>); <mwsh:comments xml:space="preserve">% seta porta digital como output</mwsh:comments>
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">a.pinMode(n,<mwsh:strings
+        xml:space="preserve">'output'</mwsh:strings>); <mwsh:comments xml:space="preserve">% seta porta digital como output</mwsh:comments>
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">a.pinMode(n,<mwsh:strings
+        xml:space="preserve">'output'</mwsh:strings>); <mwsh:comments xml:space="preserve">% seta porta digital como output</mwsh:comments>
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">a.pinMode(n,<mwsh:strings
+        xml:space="preserve">'output'</mwsh:strings>); <mwsh:comments xml:space="preserve">% seta porta digital como output</mwsh:comments>
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">a.pinMode(n,<mwsh:strings
+        xml:space="preserve">'output'</mwsh:strings>); <mwsh:comments xml:space="preserve">% seta porta digital como output</mwsh:comments>
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">a.pinMode(n,<mwsh:strings
+        xml:space="preserve">'output'</mwsh:strings>); <mwsh:comments xml:space="preserve">% seta porta digital como output</mwsh:comments>
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">a.pinMode(n,<mwsh:strings
+        xml:space="preserve">'output'</mwsh:strings>); <mwsh:comments xml:space="preserve">% seta porta digital como output</mwsh:comments>
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">a.pinMode(n,<mwsh:strings
+        xml:space="preserve">'output'</mwsh:strings>); <mwsh:comments xml:space="preserve">% seta porta digital como output</mwsh:comments>
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">a.pinMode(n,<mwsh:strings
+        xml:space="preserve">'output'</mwsh:strings>); <mwsh:comments xml:space="preserve">% seta porta digital como output</mwsh:comments>
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">a.pinMode(n,<mwsh:strings
+        xml:space="preserve">'output'</mwsh:strings>); <mwsh:comments xml:space="preserve">% seta porta digital como output</mwsh:comments>
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">a.pinMode(n,<mwsh:strings
+        xml:space="preserve">'output'</mwsh:strings>); <mwsh:comments xml:space="preserve">% seta porta digital como output</mwsh:comments>
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">a.pinMode(n,<mwsh:strings
+        xml:space="preserve">'output'</mwsh:strings>); <mwsh:comments xml:space="preserve">% seta porta digital como output</mwsh:comments>
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">a.pinMode(n,<mwsh:strings
+        xml:space="preserve">'output'</mwsh:strings>); <mwsh:comments xml:space="preserve">% seta porta digital como output</mwsh:comments>
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">a.pinMode(n,<mwsh:strings
+        xml:space="preserve">'output'</mwsh:strings>); <mwsh:comments xml:space="preserve">% seta porta digital como output</mwsh:comments>
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">a.pinMode(n,<mwsh:strings
+        xml:space="preserve">'output'</mwsh:strings>); <mwsh:comments xml:space="preserve">% seta porta digital como output</mwsh:comments>
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">a.pinMode(n,<mwsh:strings
+        xml:space="preserve">'output'</mwsh:strings>); <mwsh:comments xml:space="preserve">% seta porta digital como output</mwsh:comments>
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">a.pinMode(n,<mwsh:strings
+        xml:space="preserve">'output'</mwsh:strings>); <mwsh:comments xml:space="preserve">% seta porta digital como output</mwsh:comments>
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve">a.pinMode(n,<mwsh:strings
+        xml:space="preserve">'output'</mwsh:strings>); <mwsh:comments xml:space="preserve">% seta porta digital como output</mwsh:comments>
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve"><mwsh:comments
+        xml:space="preserve">% necessário para evitar ruido e acionamento involuntário</mwsh:comments>
+    <mwsh:comments
+        xml:space="preserve">% comum do INA</mwsh:comments>
+    <mwsh:comments
+        xml:space="preserve">% este bloco garante que nenhum rele estará acionado.</mwsh:comments>
+    bit = [1 1 1 1];
+    a.digitalWrite(13,bit(1)); <mwsh:comments
+        xml:space="preserve">% sets pin #13 high</mwsh:comments>
+    a.digitalWrite(12,bit(2)); <mwsh:comments
+        xml:space="preserve">% sets pin #12 high</mwsh:comments>
+    a.digitalWrite(11,bit(3)); <mwsh:comments
+        xml:space="preserve">% sets pin #11 high</mwsh:comments>
+    a.digitalWrite(10,bit(4)); <mwsh:comments xml:space="preserve">% sets pin #10 high</mwsh:comments>
+    
+
+</mwsh:code>
+<mwsh:code
+    xmlns:mwsh="http://www.mathworks.com/namespace/mcode/v1/syntaxhighlight.dtd"
+        xml:space="preserve"><mwsh:comments xml:space="preserve">%Evaluate this string in the base workspace</mwsh:comments>
+
+</mwsh:code>
+</chapter>
